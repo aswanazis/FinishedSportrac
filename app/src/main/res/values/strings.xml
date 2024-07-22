@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Running</string>
+    <string name="google_maps_key">AIzaSyBSv4RxUpIBtUUew5F5Pa8H7rknkDw3cpY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="sort_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Avg Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+
+    <!--    <string name="facebook_app_id">1475061623385052</string>-->
+    <!--    <string name="facebook_client_token">36ed688e63e1f49e20981681a31f0be6</string>-->
+    <!--    <string name="fb_login_protocol_scheme">fb524150042200413</string>-->
+
+    <string name="enter_your_registered_email_below_to_receive_password_reset_instruction">Enter your registered email below to receive password reset instruction.</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+</resources>
